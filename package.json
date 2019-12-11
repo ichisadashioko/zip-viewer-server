@@ -1,0 +1,12 @@
+{
+  "name": "zip-viewer-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run-server": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
